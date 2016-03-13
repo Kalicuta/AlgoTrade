@@ -1,1 +1,1 @@
-# algoTrade
+# AlgoTrade
